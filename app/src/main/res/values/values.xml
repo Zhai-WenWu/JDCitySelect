@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="picker_border_color">#e5e5e5</color>
+    <color name="picker_select_text_color">#03a9f4</color>
+    <color name="picker_text_color">#878787</color>
+    <color name="picker_title_text_color">#000000</color>
+    <string name="text_no_song">无数据</string>
+    <style name="AnimBottom" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_to_bottom</item>
+    </style>
+</resources>
